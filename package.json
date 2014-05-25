@@ -1,0 +1,12 @@
+{
+	"name": "bs-framer3",
+	"version": "0.0.1",
+	"description": "Browser-Sync for Framer 3",
+	"main": "index.html",
+	"scripts": {
+		"start": "browser-sync start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Masaaki Komori",
+	"license": "MIT"
+}
