@@ -1,0 +1,23 @@
+{
+  "name": "bs4framer3",
+  "version": "0.0.2",
+  "homepage": "https://github.com/gaspanik/bs4framer3",
+  "authors": [
+    "cipher <gmgateway@gmail.com>"
+  ],
+  "description": "Browser-Sync for Framer 3",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "framer-templates": "git@github.com:tisho/framer-templates.git",
+    "framer-prevent-bounce": "git@github.com:tisho/framer-prevent-bounce.git"
+  }
+}
