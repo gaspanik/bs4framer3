@@ -18,4 +18,4 @@ Open 'bs-config.js', and edit settings as you like.
 
 ## Changelog
 
-0.0.2: Install Framer-Templates and framer-prevent-bounce w/ Bower.
+0.0.3: Add shortcuts-for-framer to bower.json.

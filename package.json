@@ -1,6 +1,6 @@
 {
-  "name": "bs-framer3",
-  "version": "0.0.2",
+  "name": "bs4framer3",
+  "version": "0.0.3",
   "description": "Browser-Sync for Framer 3",
   "main": "index.html",
   "scripts": {
