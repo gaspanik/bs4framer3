@@ -85,7 +85,7 @@ module.exports = {
      |--------------------------------------------------------------------------
      | https://github.com/shakyShane/browser-sync/wiki/options#wiki-xip
      */
-    xip: false,
+    xip: true,
 
     /*
      |--------------------------------------------------------------------------
@@ -133,7 +133,7 @@ module.exports = {
      |--------------------------------------------------------------------------
      | https://github.com/shakyShane/browser-sync/wiki/options#wiki-notify
      */
-    notify: true,
+    notify: false,
 
     /*
      |--------------------------------------------------------------------------
